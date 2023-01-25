@@ -1,9 +1,7 @@
 # Macos
 **/.DS_Store
 
-Course-1
-Course-2
-#Course-3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
